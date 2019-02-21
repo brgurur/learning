@@ -1,3 +1,4 @@
 this is file 1
 comiit
 pull command 
+fetch command
